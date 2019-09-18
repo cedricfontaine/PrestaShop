@@ -1,7 +1,7 @@
 Contributing to PrestaShop
 --------------------------
 
-PrestaShop is an open-source e-commerce solution. Everyone is welcome and even encouraged to contribute with their own improvements.
+PrestaShop is an open-source e-commerc solution. Everyone is welcome and even encouraged to contribute with their own improvements.
 
 PrestaShop 1.7 is written mostly in PHP. Other languages used throughout are JavaScript, HTML, CSS, the Smarty & Twig templating languages, SQL, and XML.
 
